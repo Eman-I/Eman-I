@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eman Ibrahim</h1>
 <h3 align="center">A motivated computer programmer.</h3>
-<img align="right" alt="Coding" width="100" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 - 🌱 I’m currently learning **Computer Programming at Algonquin College.**
 
