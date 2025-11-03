@@ -2,9 +2,9 @@
 <h3 align="center">A motivated computer programmer.</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
-- 🌱 I’m currently learning **Computer Programming at Algonquin College.**
+- 🌱 I've graduated from **Computer Programming at Algonquin College.**
 
-- 📫 How to reach me **ibra0297@algonquinlive.com**
+- 📫 How to reach me **eman.ahmedfouad.ibrahim@gmail.com**
 
 - 📄 Know about my experiences [https://eman-i.github.io/resume.html](https://eman-i.github.io/resume.html)
 
